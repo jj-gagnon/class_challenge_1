@@ -2,7 +2,8 @@
 
 AUTHOR NAME
 
-[View this project online](URL_FOR_THE_RUNNING_PROJECT)
+[View this project online](https://jj-gagnon.github.io/class_challenge_1/index.html)
+
 
 ## Description
 
